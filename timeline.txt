@@ -1,19 +1,23 @@
-soundcanvas timeline:
+soundcanvas timeline:  now down to days...
 
 •	wk1 – design shapes, colours, icons.
 —	test and determine starting simple tones (frequency, amplitude)
 —	record simple percussive sounds
 —	gather all assets for project
 —	test/debug
+25th - 26th Oct
 •	wk2 – code basic canvas frame
 —	set constraints
 —	code ‘menu’ sections
 —	begin ellipse class
 —	test/debug
+27th - 28th Oct
 •	wk3 – develop ellipse class object further
 —	research connectivity
 —	research multiple sketches on screen
 —	test/debug
+29th - 30th Oct
 •	wk4 – refine format clean code
 —	test/debug on other machines 
 —	test//debug on other devices
+31st October
